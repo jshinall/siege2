@@ -6,8 +6,8 @@ Siege 2 - a Natural Selection 2 mod
 * This is a starting point for a **CLEAN-SHEET** implementation. There will be a TOTAL rework.
 * If you want to add another mod, EXTERNALIZE IT! No code theft! (Or get permission!)
 * If you run a server that charges for reserved slots (donations are charging!) we expect you to...
-* * Donate money equivalent to one reserved slot to us to help fund development and costs
-* * Report any and all bugs to us directly. Bonus points for sending a pull request! We'll fix it.
+  * Donate money equivalent to one reserved slot to us to help fund development and costs
+  * Report any and all bugs to us directly. Bonus points for sending a pull request! We'll fix it.
 
 # Siege! Siege! Siege!
 Siege is back! With fun put back in! No more auto-commanding, no more dropship bullshit. Good ol' classic Siege, much closer to the _original_ siege. Because you know what? It was **fun**. And we are bringing fun back. By blowing up hives and goring marines and occasionally showing them 45 seconds of Onos Anus(TM).
