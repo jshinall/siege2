@@ -1,0 +1,13 @@
+Ball entity (Gorge)
+Both sides are marine models/players on seperate teams
+Pressing e on the ball attaches it to the player/model
+Allowed to press e on the player with the ball, doing so takes the ball away
+Pressing e with the ball throws it as a predictedprojectile where it bounces around
+
+logic_trigger detects if the enter ent is the ball, if so, then trigger goal and respawn everyone yet keep the score
+have the score tied with shine via screentext?
+
+strip all weapons, only melee weapons
+
+
+

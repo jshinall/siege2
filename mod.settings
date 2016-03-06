@@ -1,0 +1,7 @@
+name        = "Siege"
+source_dir  = "source"
+output_dir  = "output"
+description = [=[Derp]=]
+image       = "preview.jpg"
+build = "274"
+publish_id = "128d1f98"
