@@ -5,6 +5,9 @@ Siege 2 - a Natural Selection 2 mod
 * If you work for UWE, you're not allowed to touch it. Much less steal it. [YOU KNOW WHY.]
 * This is a starting point for a **CLEAN-SHEET** implementation. There will be a TOTAL rework.
 * If you want to add another mod, EXTERNALIZE IT! No code theft! (Or get permission!)
+* If you run a server - thanks! Report bugs to us directly, we'll fix 'em! 
+  * Just no stealing ours and claiming it's yours.
+  * Also a shout-out. It's in the mod. Don't take it out. That's all. Easy-peasy.
 * If you run a server that charges for reserved slots (donations are charging!) we expect you to...
   * Donate money equivalent to one reserved slot to us to help fund development and costs
   * Report any and all bugs to us directly. Bonus points for sending a pull request! We'll fix it.
