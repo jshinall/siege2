@@ -11,6 +11,8 @@ These are top priority. Any components which were integrated from elsewhere **ne
 
 All of these will need to be sorted by need and priority so that permission can be obtained or new development started.
 
+# Design ToDos
+
 * DESIGN ITEM: RootWyrm Flavored NetCode Because UWE Is Incompetent
 
 The only way to fix the red plugs is fixing the code path, and the only way to fix that is getting out from under the shitshow that is Spark.
@@ -23,6 +25,8 @@ https://github.com/torch/threads - need to implement this. Already tested with L
 -- Mid0 will incur some reg delay for structure attacks. Oh noes, a few wasted bullets!
 - NetCode_Mid1: Mid-speed thread 2; specifically for IP/Egg 
 - NetCode_Low0: Low-speed thread. Covers static low-update structures (e.g. built armories, HarmSlab, Spur)
+
+# Design Ideas
 
 * DESIGN ITEM: Kredits^TM for Krieger
 
@@ -38,8 +42,9 @@ kredits_abuse.conf: item,abuse_enabled(bool),allowed_group(name),maxuse(int)
 kredits_badge.hook: steamid{badgeid(int),reserve_slot(bool),etc}
 
 * DESIGN IDEA: 2112 Overture (Krieger's Cannon!)
+* 
 NS1 had static cannons. Let's bring 'em back. But if they're identical to ARCs, nobody will build 'em. So in terms of 
 balance I'm thinking this as a start point:
+
 175% ARC damage, ARC armor - 50%, ARC hp - 50%, crit chance 2% (200% ARC damage), +1 overhead vs ARC, 25 res
 Need a model. I'm thinking something like http://vignette2.wikia.nocookie.net/marvelcinematicuniverse/images/4/46/Sonic_Cannon.png/revision/latest?cb=20141129002719
-
